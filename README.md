@@ -21,15 +21,15 @@ I enjoy creating clean, user-friendly interfaces, experimenting with ideas in mi
 
 ### 🦁 Zoo Booking System
 PHP/MySQL full stack web app with user accounts, booking system, loyalty points, and dashboard.  
-[View full project →](https://github.com/milnerlewis/zoo-booking-system)
+[→ View full project](https://github.com/milnerlewis/zoo-booking-system)
 
 ### 📝 Interactive To-Do List
 Frontend web app using HTML/CSS/JS with localStorage, filtering, inline editing, and priority management.  
-[View full project →](https://github.com/milnerlewis/interactive-todo-list)
+[→ View full project](https://github.com/milnerlewis/interactive-todo-list)
 
 ### ✏️ Simple Blog (planned)
 Backend PHP/MySQL app for creating and managing posts, demonstrating CRUD operations and database handling.  
-~~[View full project →](#)~~
+~~[→ View full project](#)~~
 
 ---
 
