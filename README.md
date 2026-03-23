@@ -20,17 +20,16 @@ I enjoy creating clean, user-friendly interfaces, experimenting with ideas in mi
 ## 🚀 Projects
 
 ### 🦁 Zoo Booking System
+PHP/MySQL full stack web app with user accounts, booking system, loyalty points, and dashboard.  
+[View full project →](https://github.com/milnerlewis/zoo-booking-system)
 
-A full stack web application that allows users to:
+### 📝 Interactive To-Do List
+Frontend web app using HTML/CSS/JS with localStorage, filtering, inline editing, and priority management.  
+[View full project →](https://github.com/milnerlewis/interactive-todo-list)
 
-* Sign up for and log into accounts
-* Book tickets through a custom booking system
-* Earn loyalty points from bookings based on total price
-* Use loyalty points to gain discounts on ticket bookings
-* View order history on user accounts, including tickets ordered and total price (with/without a discount)
-
-In this project, I made all backend processes and the database 
-The loyalty system is the main portion of the system which I'm proud of, as it tested my knowledge greatly and forced me to ensure the careful handling of user data, points, and discounts in order to ensure all different database entries worked simultaneously.
+### ✏️ Simple Blog (planned)
+Backend PHP/MySQL app for creating and managing posts, demonstrating CRUD operations and database handling.  
+~~[View full project →](#)~~
 
 ---
 
