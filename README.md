@@ -58,4 +58,5 @@ I am aiming to start my career as a junior developer, however in the long run I 
 
 ## 📫 Contact
 
+* Email: lewismilner0808@gmail.com
 * GitHub: https://github.com/milnerlewis
