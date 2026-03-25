@@ -29,7 +29,7 @@ Frontend web app using HTML/CSS/JS with localStorage, filtering, inline editing,
 
 ### ✏️ Simple Blog (planned)
 Backend PHP/MySQL app for creating and managing posts, demonstrating CRUD operations and database handling.  
-~~[→ View full project](#)~~
+[→ View full project](https://github.com/milnerlewis/notes-application)
 
 ---
 
